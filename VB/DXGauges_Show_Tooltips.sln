@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DXGauges_Show_Tooltips", "DXGauges_Show_Tooltips\DXGauges_Show_Tooltips.vbproj", "{CD175B11-81B4-46E0-93A5-6D775CF0982E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DXGauges_Show_Tooltips.Web", "DXGauges_Show_Tooltips.Web\DXGauges_Show_Tooltips.Web.vbproj", "{3C2B40DF-2F5D-49C6-9BBD-A340252B79B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD175B11-81B4-46E0-93A5-6D775CF0982E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD175B11-81B4-46E0-93A5-6D775CF0982E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD175B11-81B4-46E0-93A5-6D775CF0982E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD175B11-81B4-46E0-93A5-6D775CF0982E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C2B40DF-2F5D-49C6-9BBD-A340252B79B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2B40DF-2F5D-49C6-9BBD-A340252B79B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2B40DF-2F5D-49C6-9BBD-A340252B79B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2B40DF-2F5D-49C6-9BBD-A340252B79B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
