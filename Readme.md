@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/DXGauges_Show_Tooltips/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/DXGauges_Show_Tooltips/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/DXGauges_Show_Tooltips/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DXGauges_Show_Tooltips/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to display tooltips for gauge elements
 
 
