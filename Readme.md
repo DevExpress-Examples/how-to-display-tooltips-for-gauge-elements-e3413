@@ -5,6 +5,9 @@
 * [MainPage.xaml.cs](./CS/DXGauges_Show_Tooltips/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DXGauges_Show_Tooltips/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to display tooltips for gauge elements
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3413)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to show a tooltip with the current value of a needle on a circular gauge.</p><br />
